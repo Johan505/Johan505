@@ -5,8 +5,6 @@
 ### About me : 
 - 🌱 I’m currently learning **news things and creatives**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Johan505](https://github.com/Johan505)
-
 - ⚡ Fun fact **autodidact**
 
 
